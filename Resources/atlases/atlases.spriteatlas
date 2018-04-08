@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: atlases
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    packedHash:
+      serializedVersion: 2
+      Hash: 88786b142e5ed70c3074850447287ead
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 88786b142e5ed70c3074850447287ead
+    totalSpriteSurfaceArea: 30957
+    packables:
+    - {fileID: 102900000, guid: c484b09d2aa2d714dbd2d116b52c76f9, type: 3}
+    - {fileID: 102900000, guid: d526c0a731df3894da123c159da9965c, type: 3}
+    - {fileID: 102900000, guid: 637430194299eae45aaa12030e0d5da9, type: 3}
+    - {fileID: 102900000, guid: d526c0a731df3894da123c159da9965c, type: 3}
+    packedSpriteRenderDataKeys:
+    - 78439aff0552abb4aaf0d0fbd171daee: 21300000
+    - 5f70124e9bc4a7b468c6c0dcc8950a19: 21300000
+    - e9260785b58d4034da35b2881874faa9: 21300000
+    - e966fbfb26f80f048a222892b33972f8: 21300000
+    - 55739d9ce4c2a71459fec1431bddfeeb: 21300000
+    - 0282b520b2815e64a9d8ef602da495ab: 21300000
+    - fbf69a6716fc9f14ea14000caae94bf4: 21300000
+    - 44fa0b53bcec863449a1be56a0d14505: 21300000
+    - f772bcd5e23f865458358da2e83bb026: 21300000
+    - a200a36c26aee054585be1d5da5ef5e0: 21300000
+    - d3f39a53d7152ca4f983d5804cf822ef: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 78439aff0552abb4aaf0d0fbd171daee, type: 3}
+  - {fileID: 21300000, guid: 5f70124e9bc4a7b468c6c0dcc8950a19, type: 3}
+  - {fileID: 21300000, guid: e9260785b58d4034da35b2881874faa9, type: 3}
+  - {fileID: 21300000, guid: e966fbfb26f80f048a222892b33972f8, type: 3}
+  - {fileID: 21300000, guid: 55739d9ce4c2a71459fec1431bddfeeb, type: 3}
+  - {fileID: 21300000, guid: 0282b520b2815e64a9d8ef602da495ab, type: 3}
+  - {fileID: 21300000, guid: fbf69a6716fc9f14ea14000caae94bf4, type: 3}
+  - {fileID: 21300000, guid: 44fa0b53bcec863449a1be56a0d14505, type: 3}
+  - {fileID: 21300000, guid: f772bcd5e23f865458358da2e83bb026, type: 3}
+  - {fileID: 21300000, guid: a200a36c26aee054585be1d5da5ef5e0, type: 3}
+  - {fileID: 21300000, guid: d3f39a53d7152ca4f983d5804cf822ef, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - unity2
+  - unity
+  - power02
+  - power03
+  - power00
+  - power01
+  - power04
+  - sad
+  - cool
+  - wink
+  - smile
+  m_Tag: atlases
+  m_IsVariant: 0
